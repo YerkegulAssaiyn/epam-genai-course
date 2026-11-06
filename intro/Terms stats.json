@@ -1,0 +1,676 @@
+{
+  "terms": {
+    "LLM": {
+      "group": "Core concepts",
+      "explicit": 5,
+      "implicit": 3,
+      "explicit_matches": [
+        "LLM",
+        "LLM",
+        "LLM",
+        "LLM",
+        "LLM"
+      ],
+      "implicit_matches": [
+        "Gemini",
+        "models did not handle",
+        "GPT-4"
+      ]
+    },
+    "Token": {
+      "group": "Core concepts",
+      "explicit": 3,
+      "implicit": 0,
+      "explicit_matches": [
+        "token",
+        "token",
+        "token"
+      ],
+      "implicit_matches": []
+    },
+    "Tokenomics": {
+      "group": "Core concepts",
+      "explicit": 2,
+      "implicit": 6,
+      "explicit_matches": [
+        "tokenomics",
+        "tokenomics"
+      ],
+      "implicit_matches": [
+        "token cost",
+        "infrastructure cost",
+        "initial cost",
+        "token costs",
+        "token costs",
+        "business constraint"
+      ]
+    },
+    "Prompt": {
+      "group": "Core concepts",
+      "explicit": 1,
+      "implicit": 1,
+      "explicit_matches": [
+        "prompts"
+      ],
+      "implicit_matches": [
+        "pasted transcript"
+      ]
+    },
+    "Hallucination": {
+      "group": "Core concepts",
+      "explicit": 3,
+      "implicit": 5,
+      "explicit_matches": [
+        "hallucinated",
+        "hallucination",
+        "hallucinate"
+      ],
+      "implicit_matches": [
+        "mislead",
+        "confidently suggests wrong",
+        "invent",
+        "factual or grammatical mistakes",
+        "subtly wrong"
+      ]
+    },
+    "RAG": {
+      "group": "Working with data",
+      "explicit": 5,
+      "implicit": 9,
+      "explicit_matches": [
+        "RAG",
+        "RAG",
+        "RAG",
+        "RAG",
+        "RAG"
+      ],
+      "implicit_matches": [
+        "grounded in",
+        "search internal policies",
+        "knowledge base",
+        "knowledge base",
+        "knowledge base",
+        "summarize policies",
+        "grounded in",
+        "ground it",
+        "knowledge base"
+      ]
+    },
+    "Low-resource language": {
+      "group": "Working with data",
+      "explicit": 3,
+      "implicit": 10,
+      "explicit_matches": [
+        "low-resource languages",
+        "low-resource languages",
+        "low-resource languages"
+      ],
+      "implicit_matches": [
+        "local languages",
+        "Kazakh",
+        "Kazakh",
+        "Kazakh",
+        "Kazakh",
+        "Kazakh",
+        "Kazakh",
+        "Kazakh",
+        "less high-quality training data",
+        "Kazakh"
+      ]
+    },
+    "Speech-to-text": {
+      "group": "Working with data",
+      "explicit": 2,
+      "implicit": 13,
+      "explicit_matches": [
+        "speech-to-text",
+        "speech-to-text"
+      ],
+      "implicit_matches": [
+        "transcript",
+        "transcript",
+        "by voice",
+        "voice assistant",
+        "listen to",
+        "listened to",
+        "transcript",
+        "transcript",
+        "transcription",
+        "transcripts",
+        "transcripts",
+        "transcript",
+        "transcript"
+      ]
+    },
+    "AI agent": {
+      "group": "Agents and safety",
+      "explicit": 8,
+      "implicit": 8,
+      "explicit_matches": [
+        "agentic",
+        "an agent that",
+        "Agentic",
+        "an agent that",
+        "agentic",
+        "an agent that",
+        "agentic",
+        "agents that"
+      ],
+      "implicit_matches": [
+        "perform operations",
+        "on the customer's behalf",
+        "executes",
+        "from answering to *acting*",
+        "on the user's behalf",
+        "executes",
+        "create Jira work items",
+        "execute"
+      ]
+    },
+    "Human-in-the-loop": {
+      "group": "Agents and safety",
+      "explicit": 1,
+      "implicit": 9,
+      "explicit_matches": [
+        "Human in the loop"
+      ],
+      "implicit_matches": [
+        "human remains responsible",
+        "makes the final decision",
+        "human reviews",
+        "after a human reviews",
+        "after confirmation",
+        "approve before create",
+        "after user confirmation",
+        "human review",
+        "human oversight"
+      ]
+    },
+    "Guardrails": {
+      "group": "Agents and safety",
+      "explicit": 1,
+      "implicit": 5,
+      "explicit_matches": [
+        "guardrails"
+      ],
+      "implicit_matches": [
+        "strict permissions",
+        "constrained by",
+        "age-appropriate",
+        "academic integrity",
+        "academic integrity"
+      ]
+    },
+    "Prompt injection": {
+      "group": "Agents and safety",
+      "explicit": 1,
+      "implicit": 1,
+      "explicit_matches": [
+        "prompt injection"
+      ],
+      "implicit_matches": [
+        "social engineering"
+      ]
+    },
+    "Copilot": {
+      "group": "Types of AI tools",
+      "explicit": 1,
+      "implicit": 7,
+      "explicit_matches": [
+        "Copilot"
+      ],
+      "implicit_matches": [
+        "Agent assist",
+        "augment",
+        "augments",
+        "augment",
+        "only suggests",
+        "Agent Assist",
+        "agent assist"
+      ]
+    },
+    "AI-native": {
+      "group": "Types of AI tools",
+      "explicit": 2,
+      "implicit": 1,
+      "explicit_matches": [
+        "AI-native",
+        "AI-native"
+      ],
+      "implicit_matches": [
+        "rebuilt around AI"
+      ]
+    },
+    "Acceptance criteria": {
+      "group": "Process and education",
+      "explicit": 2,
+      "implicit": 2,
+      "explicit_matches": [
+        "acceptance criteria",
+        "acceptance criteria"
+      ],
+      "implicit_matches": [
+        "structured specification",
+        "standardized ticket quality"
+      ]
+    },
+    "Socratic approach": {
+      "group": "Process and education",
+      "explicit": 1,
+      "implicit": 6,
+      "explicit_matches": [
+        "Socratic"
+      ],
+      "implicit_matches": [
+        "guiding questions",
+        "instead of giving",
+        "instead of giving",
+        "without receiving ready-made solutions",
+        "guide, not write",
+        "toward answers"
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "LLM",
+      "target": "Token",
+      "weight": 1
+    },
+    {
+      "source": "LLM",
+      "target": "Tokenomics",
+      "weight": 2
+    },
+    {
+      "source": "LLM",
+      "target": "Hallucination",
+      "weight": 1
+    },
+    {
+      "source": "LLM",
+      "target": "RAG",
+      "weight": 1
+    },
+    {
+      "source": "LLM",
+      "target": "Low-resource language",
+      "weight": 3
+    },
+    {
+      "source": "LLM",
+      "target": "Speech-to-text",
+      "weight": 4
+    },
+    {
+      "source": "LLM",
+      "target": "AI agent",
+      "weight": 4
+    },
+    {
+      "source": "LLM",
+      "target": "Human-in-the-loop",
+      "weight": 2
+    },
+    {
+      "source": "LLM",
+      "target": "Copilot",
+      "weight": 1
+    },
+    {
+      "source": "LLM",
+      "target": "Socratic approach",
+      "weight": 1
+    },
+    {
+      "source": "Token",
+      "target": "Tokenomics",
+      "weight": 3
+    },
+    {
+      "source": "Token",
+      "target": "Hallucination",
+      "weight": 2
+    },
+    {
+      "source": "Token",
+      "target": "RAG",
+      "weight": 3
+    },
+    {
+      "source": "Token",
+      "target": "Low-resource language",
+      "weight": 2
+    },
+    {
+      "source": "Token",
+      "target": "Speech-to-text",
+      "weight": 1
+    },
+    {
+      "source": "Token",
+      "target": "AI agent",
+      "weight": 2
+    },
+    {
+      "source": "Token",
+      "target": "Human-in-the-loop",
+      "weight": 1
+    },
+    {
+      "source": "Token",
+      "target": "Guardrails",
+      "weight": 2
+    },
+    {
+      "source": "Token",
+      "target": "Prompt injection",
+      "weight": 1
+    },
+    {
+      "source": "Token",
+      "target": "Copilot",
+      "weight": 1
+    },
+    {
+      "source": "Token",
+      "target": "Socratic approach",
+      "weight": 1
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Hallucination",
+      "weight": 2
+    },
+    {
+      "source": "Tokenomics",
+      "target": "RAG",
+      "weight": 3
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Low-resource language",
+      "weight": 2
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Speech-to-text",
+      "weight": 1
+    },
+    {
+      "source": "Tokenomics",
+      "target": "AI agent",
+      "weight": 2
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Human-in-the-loop",
+      "weight": 1
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Guardrails",
+      "weight": 2
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Prompt injection",
+      "weight": 1
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Copilot",
+      "weight": 1
+    },
+    {
+      "source": "Tokenomics",
+      "target": "Socratic approach",
+      "weight": 1
+    },
+    {
+      "source": "Prompt",
+      "target": "Hallucination",
+      "weight": 1
+    },
+    {
+      "source": "Prompt",
+      "target": "RAG",
+      "weight": 1
+    },
+    {
+      "source": "Prompt",
+      "target": "Low-resource language",
+      "weight": 1
+    },
+    {
+      "source": "Prompt",
+      "target": "Speech-to-text",
+      "weight": 2
+    },
+    {
+      "source": "Prompt",
+      "target": "AI agent",
+      "weight": 1
+    },
+    {
+      "source": "Prompt",
+      "target": "Human-in-the-loop",
+      "weight": 1
+    },
+    {
+      "source": "Prompt",
+      "target": "Guardrails",
+      "weight": 1
+    },
+    {
+      "source": "Prompt",
+      "target": "Acceptance criteria",
+      "weight": 1
+    },
+    {
+      "source": "Hallucination",
+      "target": "RAG",
+      "weight": 4
+    },
+    {
+      "source": "Hallucination",
+      "target": "Low-resource language",
+      "weight": 4
+    },
+    {
+      "source": "Hallucination",
+      "target": "Speech-to-text",
+      "weight": 3
+    },
+    {
+      "source": "Hallucination",
+      "target": "AI agent",
+      "weight": 3
+    },
+    {
+      "source": "Hallucination",
+      "target": "Human-in-the-loop",
+      "weight": 2
+    },
+    {
+      "source": "Hallucination",
+      "target": "Guardrails",
+      "weight": 3
+    },
+    {
+      "source": "Hallucination",
+      "target": "Prompt injection",
+      "weight": 1
+    },
+    {
+      "source": "Hallucination",
+      "target": "Socratic approach",
+      "weight": 1
+    },
+    {
+      "source": "RAG",
+      "target": "Low-resource language",
+      "weight": 4
+    },
+    {
+      "source": "RAG",
+      "target": "Speech-to-text",
+      "weight": 4
+    },
+    {
+      "source": "RAG",
+      "target": "AI agent",
+      "weight": 2
+    },
+    {
+      "source": "RAG",
+      "target": "Human-in-the-loop",
+      "weight": 2
+    },
+    {
+      "source": "RAG",
+      "target": "Guardrails",
+      "weight": 3
+    },
+    {
+      "source": "RAG",
+      "target": "Prompt injection",
+      "weight": 1
+    },
+    {
+      "source": "RAG",
+      "target": "Copilot",
+      "weight": 3
+    },
+    {
+      "source": "RAG",
+      "target": "Socratic approach",
+      "weight": 2
+    },
+    {
+      "source": "Low-resource language",
+      "target": "Speech-to-text",
+      "weight": 6
+    },
+    {
+      "source": "Low-resource language",
+      "target": "AI agent",
+      "weight": 4
+    },
+    {
+      "source": "Low-resource language",
+      "target": "Human-in-the-loop",
+      "weight": 3
+    },
+    {
+      "source": "Low-resource language",
+      "target": "Guardrails",
+      "weight": 2
+    },
+    {
+      "source": "Low-resource language",
+      "target": "Prompt injection",
+      "weight": 1
+    },
+    {
+      "source": "Low-resource language",
+      "target": "Copilot",
+      "weight": 1
+    },
+    {
+      "source": "Low-resource language",
+      "target": "AI-native",
+      "weight": 1
+    },
+    {
+      "source": "Speech-to-text",
+      "target": "AI agent",
+      "weight": 6
+    },
+    {
+      "source": "Speech-to-text",
+      "target": "Human-in-the-loop",
+      "weight": 5
+    },
+    {
+      "source": "Speech-to-text",
+      "target": "Guardrails",
+      "weight": 1
+    },
+    {
+      "source": "Speech-to-text",
+      "target": "Copilot",
+      "weight": 2
+    },
+    {
+      "source": "Speech-to-text",
+      "target": "AI-native",
+      "weight": 1
+    },
+    {
+      "source": "Speech-to-text",
+      "target": "Acceptance criteria",
+      "weight": 2
+    },
+    {
+      "source": "AI agent",
+      "target": "Human-in-the-loop",
+      "weight": 4
+    },
+    {
+      "source": "AI agent",
+      "target": "Guardrails",
+      "weight": 1
+    },
+    {
+      "source": "AI agent",
+      "target": "Prompt injection",
+      "weight": 1
+    },
+    {
+      "source": "AI agent",
+      "target": "Copilot",
+      "weight": 1
+    },
+    {
+      "source": "AI agent",
+      "target": "AI-native",
+      "weight": 1
+    },
+    {
+      "source": "AI agent",
+      "target": "Acceptance criteria",
+      "weight": 2
+    },
+    {
+      "source": "Human-in-the-loop",
+      "target": "Copilot",
+      "weight": 2
+    },
+    {
+      "source": "Human-in-the-loop",
+      "target": "AI-native",
+      "weight": 1
+    },
+    {
+      "source": "Human-in-the-loop",
+      "target": "Acceptance criteria",
+      "weight": 2
+    },
+    {
+      "source": "Guardrails",
+      "target": "Prompt injection",
+      "weight": 1
+    },
+    {
+      "source": "Guardrails",
+      "target": "Socratic approach",
+      "weight": 2
+    },
+    {
+      "source": "Copilot",
+      "target": "AI-native",
+      "weight": 1
+    }
+  ]
+}
